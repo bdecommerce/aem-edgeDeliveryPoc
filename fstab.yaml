@@ -1,7 +1,5 @@
 mountpoints:
 ## BDB Dev Cloud AuthorPath /: https://author-p14102-e32568.adobeaemcloud.com/bin/franklin.delivery/bdecommerce/aem-edgedeliverypoc/main
-## Adobe Default Content path G drive   
-/: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
+## Adobe Default Content path G drive   /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
 ## TCS POC GWS Link #  /: https://drive.google.com/drive/folders/1zeTDiJPjGzItsli3BRmIyo5mpNw4usxJ
-## Uncomment below line and comment all other lines to set custom starter content for Website
-##  /: https://drive.google.com/drive/folders/1h-x2FsMsZ3tXnp7tKOY82KYXg0luMb4P
+  /: https://drive.google.com/drive/folders/1h-x2FsMsZ3tXnp7tKOY82KYXg0luMb4P
